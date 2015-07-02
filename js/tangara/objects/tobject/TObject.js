@@ -1,3 +1,4 @@
+//test
 define(['jquery', 'TRuntime', 'TEnvironment'], function($, TRuntime, TEnvironment) {
     function TObject() {
         TRuntime.addObject(this);
